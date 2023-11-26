@@ -1,0 +1,7 @@
+{
+  "name": "appCards",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
